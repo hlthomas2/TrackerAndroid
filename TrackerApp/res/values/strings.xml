@@ -23,5 +23,6 @@
     <string name="contact_header">Contact Us</string>
     <string name="about_header">About</string>
     <string name="key_header">Map Key</string>
+    <string name="contentDescription">AppLogo</string>
 
 </resources>
